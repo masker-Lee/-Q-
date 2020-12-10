@@ -1,4 +1,4 @@
-# 酷Q自动回复插件
-##### 本程序是酷Q机器人的配套程序,两个程序一起使用
-1. CQ_WebData3.0是酷Q插件,加入酷Q中运行
-2. WebDataSave3.0是爬取其他网站数据,然后为酷Q提供所需的数据
+# CQ-auto-reply plug-in
+##### Two programs work together, response BTC and some coin price in QQ
+1. CQ_WebData3.0, CQ plug-in, auto reply QQ message
+2. WebDataSave3.0, supplied BTC and coin price data for CQ, get data from other website api
